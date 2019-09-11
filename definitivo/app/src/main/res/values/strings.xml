@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">definitivo</string>
+    <string-array name="Idioma">
+        <item>Seleccione su idioma</item>
+        <item>Español</item>
+        <item>Ingles</item>
+        <item>Portugues</item>
+        <item>Frances</item>
+        <item>Chino</item>
+    </string-array>
+</resources>
